@@ -18,3 +18,5 @@
 |[Discovery of Handwash](https://github.com/Aayush-Basnet/Data-Analysis-Project/blob/main/Discovery%20of%20Importance%20of%20Handwash.ipynb)  |
 |[Diwali Sales Analysis](https://github.com/Aayush-Basnet/Data-Analysis-Project/blob/main/Diwali%20Sales%20Analysis.ipynb)  |
 |[Black Friday Sales Prediction](https://github.com/Aayush-Basnet/Black-Friday-Sales-Prediction/blob/main/Black%20Friday%20Sales%20Prediction/Black_friday_SalesPrediction.ipynb)    |
+| [Customer Churn Prediction](https://github.com/Aayush-Basnet/Customer-Churn-Prediction)     |
+| [Credit Card Fraud Prediction](https://github.com/Aayush-Basnet/Credit-Card-Fraud-Prediction)    |
